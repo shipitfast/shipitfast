@@ -1,6 +1,6 @@
 # WTF Lists
 
-[![WTF](https://img.shields.io/badge/wtf-approved-ff69b4.svg)](https://github.com/wtf-lists) [![No BS](https://img.shields.io/badge/bullshit-0%25-green.svg)](https://github.com/wtf-lists)
+[![WTF](https://img.shields.io/badge/wtf-approved-ff69b4.svg)](https://github.com/shipitfast/shipitfast) [![No BS](https://img.shields.io/badge/bullshit-0%25-green.svg)](https://github.com/shipitfast/shipitfast)
 
 > curated lists of shit that actually works, not comprehensive lists of everything that exists
 
@@ -26,15 +26,15 @@ we're the marie kondo of tech lists - if it doesn't spark joy (or actually work)
 
 | topic | what it covers | why you care | maintainer |
 |-------|---------------|--------------|------------|
-| [wtf-ai-agents](https://github.com/wtf-lists/ai-agents) | agent frameworks that don't suck | build AI that works, not demos | [@realdev](https://github.com/realdev) |
-| [wtf-databases](https://github.com/wtf-lists/databases) | databases you can actually deploy | store data without losing sleep | [@dbguru](https://github.com/dbguru) |
-| [wtf-frontend](https://github.com/wtf-lists/frontend) | web frameworks that ship code | build UIs that don't break | [@cssmaster](https://github.com/cssmaster) |
-| [wtf-backend](https://github.com/wtf-lists/backend) | apis that scale beyond hello world | backends that handle real traffic | [@apiking](https://github.com/apiking) |
-| [wtf-devops](https://github.com/wtf-lists/devops) | deployment tools that work | ship code without kubernetes PhD | [@shipitfast](https://github.com/shipitfast) |
-| [wtf-mobile](https://github.com/wtf-lists/mobile) | apps that don't crash | mobile dev without therapy | [@appdev](https://github.com/appdev) |
-| [wtf-security](https://github.com/wtf-lists/security) | security that you'll actually implement | protect stuff without going insane | [@hackproof](https://github.com/hackproof) |
-| [wtf-monitoring](https://github.com/wtf-lists/monitoring) | observability that observes | know when shit breaks | [@watchdog](https://github.com/watchdog) |
-| [wtf-testing](https://github.com/wtf-lists/testing) | tests that catch bugs | test code that matters | [@testgod](https://github.com/testgod) |
+| [wtf-ai-agents](https://github.com/shipitfast/ai-agents) | agent frameworks that don't suck | build AI that works, not demos | [@realdev](https://github.com/realdev) |
+| [wtf-databases](https://github.com/shipitfast/databases) | databases you can actually deploy | store data without losing sleep | [@dbguru](https://github.com/dbguru) |
+| [wtf-frontend](https://github.com/shipitfast/frontend) | web frameworks that ship code | build UIs that don't break | [@cssmaster](https://github.com/cssmaster) |
+| [wtf-backend](https://github.com/shipitfast/backend) | apis that scale beyond hello world | backends that handle real traffic | [@apiking](https://github.com/apiking) |
+| [wtf-devops](https://github.com/shipitfast/devops) | deployment tools that work | ship code without kubernetes PhD | [@shipitfast](https://github.com/shipitfast) |
+| [wtf-mobile](https://github.com/shipitfast/mobile) | apps that don't crash | mobile dev without therapy | [@appdev](https://github.com/appdev) |
+| [wtf-security](https://github.com/shipitfast/security) | security that you'll actually implement | protect stuff without going insane | [@hackproof](https://github.com/hackproof) |
+| [wtf-monitoring](https://github.com/shipitfast/monitoring) | observability that observes | know when shit breaks | [@watchdog](https://github.com/watchdog) |
+| [wtf-testing](https://github.com/shipitfast/testing) | tests that catch bugs | test code that matters | [@testgod](https://github.com/testgod) |
 
 ## creating a wtf list
 
